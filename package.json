@@ -1,0 +1,22 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "description": "To learn Complete node Js. Using Core concepts to export pakages.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Yes"
+  },
+  "keywords": [
+    "\"Learn",
+    "Node",
+    "Js",
+    "using",
+    "Code\""
+  ],
+  "author": "Bhaskar Challa",
+  "license": "ISC"
+}
